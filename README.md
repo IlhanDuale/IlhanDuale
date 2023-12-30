@@ -4,4 +4,4 @@
 - 👯 I’m looking to collaborate on javascripit
 - 💬 Ask me about website creation
 - 📫 How to reach me: dualeilhan@gmail.com
-- ⚡ Fun fact: I'm East African
+
